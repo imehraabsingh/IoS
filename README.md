@@ -80,27 +80,3 @@ This project is open-source and available under the MIT License
 Mehraab Singh
 📫 GitHub Profile
 
----
-
-📌 **To Use This**:
-1. Go to your `IoS` folder (in Terminal):
-  
-   cd IoS
-
-3.	Create or edit the README file:
-   
-   nano README.md
-
-
-3.	Paste the above content, save with:
-
-	•	Press Control + O → Enter to save
-
-	•	Press Control + X to exit
-
-Then:
-
-git add README.md
-git commit -m "Add README"
-git push origin main
-
