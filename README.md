@@ -44,8 +44,8 @@ This repository contains various projects, exercises, and assignments created as
    ```bash
    git clone git@github.com:imehraabsingh/IoS.git
 
-	2.	Navigate to the project folder and open the .xcodeproj or .xcodeworkspace file in Xcode.
-	3.	Build and run the app:
+2.	Navigate to the project folder and open the .xcodeproj or .xcodeworkspace file in Xcode.
+3.	Build and run the app:
 
 ⌘ + R
 
